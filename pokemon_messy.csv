@@ -1,0 +1,11 @@
+Name;Type;HP;Attack
+Pikachu;Electric;35.0;55
+Charmander;Fire;39.0;52
+Bulbasaur;Grass/Poison;45.0;49
+Squirtle;Water;44.0;48
+Mewtwo;Psychic;106.0;110
+Pikachu;Electric;35.0;55
+Charmander;;;52
+;Normal;55.0;unknown
+Eevee;Normal;65.0;55
+Snorlax;Normal;;110
