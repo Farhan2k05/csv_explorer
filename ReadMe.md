@@ -1,4 +1,6 @@
-# CSV Dashboard
+# CSV Explorer
+
+Live demo: https://csvexplorer-qtcxbswnhvftcuuq5ayrzh.streamlit.app/
 
 A lightweight data exploration tool built with Python and Streamlit. Upload any CSV and instantly get a visual summary of your data — no setup, no SQL, no pandas knowledge required.
 
